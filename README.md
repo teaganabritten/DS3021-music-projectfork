@@ -1,2 +1,2 @@
 # DS3021-music-project
-A project for Machine Learning I 
+A project for Machine Learning I at the University of Virginia School of Data Science
