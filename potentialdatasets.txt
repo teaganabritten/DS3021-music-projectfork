@@ -5,10 +5,13 @@ so we're gonna try our darndest to avoid kaggle
 or, we can look at social acceptability of certain lyrics or themes. 
 
 
-some ideas: 
-- social acceptability of certain taboo words
-- sentiment analysis 
+as far as ideas: 
+essentially we just 
+1) need data, 
+2) need to be able to make predictions from it. 
+was considering doing something interesting, like predicting the likelihood of encountering the word 'love' or something. 
 
 
 this is how someone who's done a similar project in the past obtained the lyric data: 
 - https://www.kaylinpavlik.com/50-years-of-pop-music/
+
