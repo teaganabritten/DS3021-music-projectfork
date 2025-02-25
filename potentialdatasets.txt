@@ -8,3 +8,7 @@ or, we can look at social acceptability of certain lyrics or themes.
 some ideas: 
 - social acceptability of certain taboo words
 - sentiment analysis 
+
+
+this is how someone who's done a similar project in the past obtained the lyric data: 
+- https://www.kaylinpavlik.com/50-years-of-pop-music/
