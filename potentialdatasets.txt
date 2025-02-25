@@ -15,3 +15,5 @@ was considering doing something interesting, like predicting the likelihood of e
 this is how someone who's done a similar project in the past obtained the lyric data: 
 - https://www.kaylinpavlik.com/50-years-of-pop-music/
 
+
+the thing is, we don't need just lyric data, we need data with a bunch of 'y-values'. 
