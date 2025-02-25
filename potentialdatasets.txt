@@ -3,3 +3,8 @@ so we're gonna try our darndest to avoid kaggle
 ^ i fear the risk of our project being too similar to previous ones, so i wonder if we should change our framing/question - instead of 'what' lyrics exist, perhaps we...
 ...can consider how popular songs with certain lyrics are. 
 or, we can look at social acceptability of certain lyrics or themes. 
+
+
+some ideas: 
+- social acceptability of certain taboo words
+- sentiment analysis 
