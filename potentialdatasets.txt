@@ -24,3 +24,4 @@ shoudln't take as long as we think.
 thoughts on how to fetch data and look at its attributes 
 - yoink all the titles and artists from somewhere
 - yoink all the data corresponding to the titles and artists from the spotify api 
+*** this is what i am going to do. ^ 
