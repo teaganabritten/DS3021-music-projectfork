@@ -30,7 +30,8 @@ thoughts on how to fetch data and look at its attributes
 
 
 Other ideas? ----
-I KNOW we said we wanted to avoid kaggle, BUT this dataset has lots of interesting features that is sourced from SPOTIFY API.
+I KNOW we said we wanted to avoid kaggle, BUT this dataset has lots of interesting features that is sourced from 
+SPOTIFY API.
 It may be easier to use some features from here to save time collecting data.
 Some features/metrics included are:
 - danceability (suitability for dancing based on musical elements)
@@ -44,4 +45,5 @@ Some features/metrics included are:
 LINK BELOW
 https://www.kaggle.com/datasets/thedevastator/billboard-hot-100-audio-features?resource=download
 
-The dataset has the main information like artist and song title as well. The only thing it doesn't come with is lyric data, but if we wanted to focus on that, we can always merge multiple datasets!
+The dataset has the main information like artist and song title as well. The only thing it doesn't come with is 
+lyric data, but if we wanted to focus on that, we can always merge multiple datasets!
