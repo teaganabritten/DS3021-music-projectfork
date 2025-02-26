@@ -25,3 +25,23 @@ thoughts on how to fetch data and look at its attributes
 - yoink all the titles and artists from somewhere
 - yoink all the data corresponding to the titles and artists from the spotify api 
 *** this is what i am going to do. ^ 
+
+
+
+
+Other ideas? ----
+I KNOW we said we wanted to avoid kaggle, BUT this dataset has lots of interesting features that is sourced from SPOTIFY API.
+It may be easier to use some features from here to save time collecting data.
+Some features/metrics included are:
+- danceability (suitability for dancing based on musical elements)
+- energy level (intensity and activity)
+- loudness (overall volume level in decibels dB)
+- speechiness rating (presence of spoken words in songs)
+- instrumentalness rating (likelihood of a song being instrumental)
+- beat and tempo
+- genre
+
+LINK BELOW
+https://www.kaggle.com/datasets/thedevastator/billboard-hot-100-audio-features?resource=download
+
+The dataset has the main information like artist and song title as well. The only thing it doesn't come with is lyric data, but if we wanted to focus on that, we can always merge multiple datasets!
