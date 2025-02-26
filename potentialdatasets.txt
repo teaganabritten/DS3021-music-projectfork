@@ -19,3 +19,8 @@ this is how someone who's done a similar project in the past obtained the lyric 
 the thing is, we don't need just lyric data, we need data with a bunch of 'y-values'. 
 scraping the spotify API or the soundcloud API could be useful. we just need some data and some analysis 
 shoudln't take as long as we think. 
+
+
+thoughts on how to fetch data and look at its attributes 
+- yoink all the titles and artists from somewhere
+- yoink all the data corresponding to the titles and artists from the spotify api 
